@@ -7,6 +7,7 @@
 *.orig
 *.orig[0-9][0-9]
 \#*\#
+*Zone.Identifier*
 
 # File-browser settings - anywhere
 .directory
